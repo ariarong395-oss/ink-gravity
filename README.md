@@ -1,2 +1,12 @@
-# ink-gravity
-First Prize in hackathon physical AI Track - Demonstration of the Robotic Arm Brush Writing System
+# 墨有引力 INK GRAVITY
+
+澳门黑客松具身智能赛道 **一等奖** 演示视频。
+
+香港、澳门街头的手写招牌是城市文化符号，但成套墨迹受书法家精力限制。我们用 Physical AI 做了两步：
+
+1. AI 生成目标风格字形，提取笔画矢量  
+2. SO-101 机械臂执毛笔，在纸上真实书写  
+
+规则控制保证「写得出」（字形 → 笔画 → 中线 → 轨迹 → 仿真 → 真机）；ACT 路线追求「写得像」。
+
+[ink-gravity.mp4](./ink-gravity.mp4)
